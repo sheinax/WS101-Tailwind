@@ -1,2 +1,2 @@
-note: put build to view site...
+(note: put build to view site)
 2ndSem/Final/ Tailwind Act1
